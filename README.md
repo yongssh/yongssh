@@ -1,6 +1,6 @@
 Computer Science + English Lit at Northwestern
 
-You can learn more at [my website](https://yongssh.github.io)!
+More at [my website](https://yongssh.github.io)!
 <!--
 **yongssh/yongssh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
