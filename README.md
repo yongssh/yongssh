@@ -1,8 +1,10 @@
 Computer Science + English Lit at Northwestern
 
-I read a lot. I try to write (both code and [plain text](https://yongssh.github.io/writing)).
+📚 I read a lot. I try to write (both code and [plain text](https://yongssh.github.io/writing)).
 
-More at [my website](https://yongssh.github.io) or on [LinkedIn](https://www.linkedin.com/in/yong-yuhuang/).
+📰 Currently, I'm the Web Developer at _The Daily Northwestern_
+
+🖥️ More at [my website](https://yongssh.github.io) or on [LinkedIn](https://www.linkedin.com/in/yong-yuhuang/).
 <!--
 **yongssh/yongssh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
