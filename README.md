@@ -2,7 +2,7 @@ Computer Science + English Lit at Northwestern
 
 - 📚 I read a lot. I try to write (both code and [plain text](https://yongssh.github.io/writing)).
 
-- 📰 Currently, I'm the Web Developer at _The Daily Northwestern_
+- 📰 Currently, I'm the Web Developer at _The Daily Northwestern_. Previously, I interned at _Encyclopaedia Britannica_ with the AI/ML team.
 
 - 🖥️ More at [my website](https://yongssh.github.io) or on [LinkedIn](https://www.linkedin.com/in/yong-yuhuang/).
 <!--
